@@ -1,5 +1,5 @@
 header {
-	background-color: rgba(0, 0, 0, 0.611);
+	background-color: red;
 	position: relative;
 	font-weight: 800;
 }
@@ -8,4 +8,7 @@ header::before {
 	position: absolute;
 	inset: 0;
 	background-color: rgba(0, 0, 0, 0.5); /* Oscurece para mejor contraste */
+}
+.Navbar .nav-link {
+	color: white !important;
 }

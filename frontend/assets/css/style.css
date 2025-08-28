@@ -10,5 +10,8 @@ header::before {
 	background-color: rgba(0, 0, 0, 0.363); /* Oscurece para mejor contraste */
 }
 .Navbar .nav-link {
-	color: white !important;
+	color: white;
+}
+.Navbar .nav-link:hover {
+	color: darkgoldenrod;
 }

@@ -7,7 +7,7 @@ header::before {
 	content: '';
 	position: absolute;
 	inset: 0;
-	background-color: rgba(0, 0, 0, 0.5); /* Oscurece para mejor contraste */
+	background-color: rgba(0, 0, 0, 0.363); /* Oscurece para mejor contraste */
 }
 .Navbar .nav-link {
 	color: white !important;

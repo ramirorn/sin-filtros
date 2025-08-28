@@ -1,0 +1,21 @@
+{
+  "name": "sin-filtros",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramirorn/sin-filtros.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramirorn/sin-filtros/issues"
+  },
+  "homepage": "https://github.com/ramirorn/sin-filtros#readme",
+  "description": ""
+}
